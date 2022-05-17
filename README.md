@@ -2,7 +2,7 @@
 
 # Working with MySQL using Python
 
-This work includes MySQL operations such as writing queries to preform various operations like creating table or extracting data from a table using Python.
+This work includes MySQL operations such as writing queries to preform various operations like creating a table, creating a database, inserting values in a table, extracting data from a table using Python.
 
 
 ## Used By
