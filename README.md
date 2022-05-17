@@ -11,3 +11,8 @@ This work is used by the following:
 
 - Data Analyst
 - Python Developer
+
+## Tech Stack
+
+- IDE Used: Jupyter Notebook
+- Programming Language Used: Python
