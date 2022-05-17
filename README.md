@@ -16,3 +16,4 @@ This work is used by the following:
 
 - IDE Used: Jupyter Notebook
 - Programming Language Used: Python
+- RDBMS/DBMS Tool Used: MySQL Server
